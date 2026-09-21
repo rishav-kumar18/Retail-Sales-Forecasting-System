@@ -62,7 +62,8 @@ The Random Forest model was chosen for its accuracy, interpretability, and robus
 
 ---
 
-##  Note: Upload the required train.csv and test.csv files to Google Colab before running the notebook. Then execute the cells sequentially to run the complete project.
+##  Note: 
+Upload the required train.csv and test.csv files to Google Colab before running the notebook. Then execute the cells sequentially to run the complete project.
 
 ---
 
